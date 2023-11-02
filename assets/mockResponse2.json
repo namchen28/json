@@ -1,0 +1,278 @@
+{
+    "message": null,
+    "messageCode": 200,
+    "numberOfResult": null,
+    "result": {
+        "products": [
+            {
+                "id": 31501,
+                "variationId": null,
+                "categoryId": 20,
+                "category": {
+                    "id": 20,
+                    "name": "Thịt đông lạnh",
+                    "slug": "",
+                    "logo": "http://cms.icook.nghibv.io/wp-content/uploads/2022/05/image-2688-2.png",
+                    "logoBW": false,
+                    "minimizeLogo": false,
+                    "isActive": ""
+                },
+                "provinceId": 5,
+                "wooId": 31501,
+                "rkCode": "3563",
+                "sapCode": "65000333",
+                "magentoId": null,
+                "name": "Ba Chỉ Bò Mỹ Nướng SumoBBQ 300g (Tặng kèm sốt chấm + ướp Akadare)",
+                "thumbnail": "http://cms.icook.nghibv.io/wp-content/uploads/2022/05/bcn300g_591e78d223a145ab932b9be025466a09-450x450.webp",
+                "description": "",
+                "regularPrice": 150000,
+                "salePrice": 139000,
+                "taxClass": "",
+                "taxRateValue": 0,
+                "currency": null,
+                "currencySymbol": null,
+                "unit": "na",
+                "unitText": "",
+                "quantitative": "",
+                "childProduct": null,
+                "parentId": null,
+                "group": null,
+                "tag": null,
+                "minimumPrice": 0,
+                "limitQuantity": 0,
+                "modifier": null,
+                "topping": {
+                    "type": "topping",
+                    "name": "Topping",
+                    "data": []
+                },
+                "variations": null,
+                "productType": {
+                    "id": 54,
+                    "name": "Thịt bò Mỹ",
+                    "slug": "thit-bo-my"
+                },
+                "productBrand": {
+                    "id": 59,
+                    "name": "Sumo Yakiniku",
+                    "slug": "sumo-yakiniku"
+                },
+                "discount": 11000,
+                "discountRate": 8,
+                "slug": "ba chi bo my nuong sumobbq 300g tang kem sot cham uop akadare",
+                "isActive": true,
+                "isVariation": false
+            },
+            {
+                "id": 31499,
+                "variationId": null,
+                "categoryId": 26,
+                "category": {
+                    "id": 26,
+                    "name": "Khác",
+                    "slug": "",
+                    "logo": "http://cms.icook.nghibv.io/wp-content/uploads/2022/05/image-2688.png",
+                    "logoBW": false,
+                    "minimizeLogo": false,
+                    "isActive": ""
+                },
+                "provinceId": 5,
+                "wooId": 31499,
+                "rkCode": "5296",
+                "sapCode": "65000426",
+                "magentoId": null,
+                "name": "Sốt Chấm Thái Kichi Kichi 300g",
+                "thumbnail": "http://cms.icook.nghibv.io/wp-content/uploads/2022/05/sclt300g_e8cdf4044074418d8553dd77e20c4da8-450x450.webp",
+                "description": "",
+                "regularPrice": 20000,
+                "salePrice": 0,
+                "taxClass": "",
+                "taxRateValue": 0,
+                "currency": null,
+                "currencySymbol": null,
+                "unit": "na",
+                "unitText": "",
+                "quantitative": "",
+                "childProduct": null,
+                "parentId": null,
+                "group": null,
+                "tag": null,
+                "minimumPrice": 0,
+                "limitQuantity": 0,
+                "modifier": null,
+                "topping": {
+                    "type": "topping",
+                    "name": "Topping",
+                    "data": []
+                },
+                "variations": null,
+                "productType": null,
+                "productBrand": {
+                    "id": 58,
+                    "name": "Kichi-Kichi",
+                    "slug": "kichi-kichi"
+                },
+                "discount": 0,
+                "discountRate": 0,
+                "slug": "sot cham thai kichi kichi 300g",
+                "isActive": true,
+                "isVariation": false
+            },
+            {
+                "id": 31452,
+                "variationId": null,
+                "categoryId": 22,
+                "category": {
+                    "id": 22,
+                    "name": "Thịt",
+                    "slug": "",
+                    "logo": "http://cms.icook.nghibv.io/wp-content/uploads/2022/05/image-2690.png",
+                    "logoBW": false,
+                    "minimizeLogo": false,
+                    "isActive": ""
+                },
+                "provinceId": 5,
+                "wooId": 31452,
+                "rkCode": "8284",
+                "sapCode": "8284",
+                "magentoId": null,
+                "name": "Gầu Bò Mỹ 300g(Tặng kèm sốt chấm Kichi)",
+                "thumbnail": "http://cms.icook.nghibv.io/wp-content/uploads/2022/05/z3070769659917_292191dd06703f4fc5e2a7a75e9f1796_a398c1a4bbd14097bb1fe97df114a578-450x450.webp",
+                "description": "",
+                "regularPrice": 115000,
+                "salePrice": 0,
+                "taxClass": "",
+                "taxRateValue": 0,
+                "currency": null,
+                "currencySymbol": null,
+                "unit": "na",
+                "unitText": "",
+                "quantitative": "",
+                "childProduct": null,
+                "parentId": null,
+                "group": null,
+                "tag": null,
+                "minimumPrice": 0,
+                "limitQuantity": 0,
+                "modifier": null,
+                "topping": {
+                    "type": "topping",
+                    "name": "Topping",
+                    "data": []
+                },
+                "variations": null,
+                "productType": {
+                    "id": 52,
+                    "name": "Thịt ăn lẩu",
+                    "slug": "thit-an-lau"
+                },
+                "productBrand": {
+                    "id": 58,
+                    "name": "Kichi-Kichi",
+                    "slug": "kichi-kichi"
+                },
+                "discount": 0,
+                "discountRate": 0,
+                "slug": "gau bo my 300gtang kem sot cham kichi",
+                "isActive": true,
+                "isVariation": false
+            }
+        ],
+        "total": 3,
+        "filters": {
+            "types": [
+                {
+                    "id": 52,
+                    "name": "Thịt ăn lẩu",
+                    "slug": "thit-an-lau"
+                },
+                {
+                    "id": 53,
+                    "name": "Thịt ăn nướng",
+                    "slug": "thit-an-nuong"
+                },
+                {
+                    "id": 54,
+                    "name": "Thịt bò Mỹ",
+                    "slug": "thit-bo-my"
+                },
+                {
+                    "id": 55,
+                    "name": "Thịt bò Úc",
+                    "slug": "thit-bo-uc"
+                },
+                {
+                    "id": 56,
+                    "name": "Thịt cừu",
+                    "slug": "thit-cuu"
+                }
+            ],
+            "brands": [
+                {
+                    "id": 57,
+                    "name": "Ashima",
+                    "slug": "ashima",
+                    "isActive": false
+                },
+                {
+                    "id": 63,
+                    "name": "Cowboy Jack's",
+                    "slug": "cowboy-jacks",
+                    "isActive": false
+                },
+                {
+                    "id": 60,
+                    "name": "Gogi House",
+                    "slug": "gogi-house",
+                    "isActive": false
+                },
+                {
+                    "id": 61,
+                    "name": "Hutong",
+                    "slug": "hutong",
+                    "isActive": false
+                },
+                {
+                    "id": 58,
+                    "name": "Kichi-Kichi",
+                    "slug": "kichi-kichi",
+                    "isActive": true
+                },
+                {
+                    "id": 62,
+                    "name": "Manwah",
+                    "slug": "manwah",
+                    "isActive": false
+                },
+                {
+                    "id": 59,
+                    "name": "Sumo Yakiniku",
+                    "slug": "sumo-yakiniku",
+                    "isActive": true
+                }
+            ],
+            "rangePrice": [
+                {
+                    "from": 0,
+                    "to": 100000
+                },
+                {
+                    "from": 100000,
+                    "to": 200000
+                },
+                {
+                    "from": 200000,
+                    "to": 300000
+                },
+                {
+                    "from": 300000,
+                    "to": 500000
+                },
+                {
+                    "from": 500000,
+                    "to": 1000000
+                }
+            ]
+        }
+    }
+}

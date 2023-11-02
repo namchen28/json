@@ -1,0 +1,57 @@
+{
+    "message": "Thành công",
+    "messageCode": 200,
+    "numberOfResult": null,
+    "result": {
+        "id": 31579,
+        "variationId": null,
+        "categoryId": 66,
+        "category": {
+            "id": 66,
+            "name": "Canteen - Tòa D3",
+            "shortName": "Tòa D3",
+            "slug": "canteen-toa-d3",
+            "logo": "https://cmsbachmai-uat.tgss.vn/wp-content/uploads/2022/06/d3.png",
+            "isActive": "",
+            "restaurant": null
+        },
+        "provinceId": 0,
+        "wooId": 31579,
+        "rkCode": "4564",
+        "sapCode": "70005",
+        "magentoId": null,
+        "name": "Lẩu Thái Đặc Biệt 3-4 Người",
+        "thumbnail": "https://cmsbachmai-uat.tgss.vn/wp-content/themes/twentytwentytwo/assets/images/no-product-image.png",
+        "description": "",
+        "regularPrice": 400000,
+        "salePrice": 350000,
+        "taxClass": "",
+        "taxRateValue": 0,
+        "currency": null,
+        "currencySymbol": null,
+        "unit": "na",
+        "unitText": "",
+        "quantitative": "",
+        "childProduct": null,
+        "parentId": null,
+        "group": {
+            "id": 74,
+            "name": "Ăn tiệc",
+            "slug": "an-tiec"
+        },
+        "tag": null,
+        "minimumPrice": 0,
+        "limitQuantity": 0,
+        "modifier": null,
+        "topping": {
+            "type": "topping",
+            "name": "Topping",
+            "data": []
+        },
+        "variations": null,
+        "productType": null,
+        "productBrand": null,
+        "createdAt": "2022-06-20 16:01:35",
+        "updatedAt": "2022-06-21 17:23:22"
+    }
+}
